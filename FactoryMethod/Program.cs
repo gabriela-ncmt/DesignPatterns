@@ -17,6 +17,9 @@ namespace FactoryMethod
                     case "--log":
                         transport = new MotorCycleTransport();
                         break;
+                    case "--food":
+                        transport = new BicycleTransport();
+                        break;
                     default:
                         Console.WriteLine("Selecione o tipo de Serviço");
                         break;
