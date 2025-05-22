@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Builder", "Builder\Builder.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adapter", "Adapter\Adapter.csproj", "{159C2D32-2268-4B94-B24B-DF7395DF3B07}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bridge", "Bridge\Bridge.csproj", "{BBCD04B5-8E14-40A5-A44C-6DEB121354EB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{159C2D32-2268-4B94-B24B-DF7395DF3B07}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{159C2D32-2268-4B94-B24B-DF7395DF3B07}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{159C2D32-2268-4B94-B24B-DF7395DF3B07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBCD04B5-8E14-40A5-A44C-6DEB121354EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBCD04B5-8E14-40A5-A44C-6DEB121354EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBCD04B5-8E14-40A5-A44C-6DEB121354EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBCD04B5-8E14-40A5-A44C-6DEB121354EB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
